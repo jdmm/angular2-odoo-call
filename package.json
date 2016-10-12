@@ -1,6 +1,6 @@
 {
-  "name": "angular2-odoo-call",
-  "version": "1.0.0",
+  "name": "angula2-odoo-call",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "tsc:w": "tsc -w",
     "typings": "typings"
   },
-  "author": "",
+  "author": "“Jose <“josedmancillam@gmail.com”>",
   "license": "ISC",
   "dependencies": {
     "@angular/common": "2.0.0",
@@ -36,9 +36,28 @@
     "zone.js": "^0.6.23"
   },
   "devDependencies": {
+    "chai": "^3.5.0",
     "concurrently": "^2.2.0",
     "lite-server": "^2.2.2",
+    "mocha": "^3.1.2",
     "typescript": "^2.0.2",
     "typings": "^1.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmm/angular2-odoo-call.git"
+  },
+  "keywords": [
+    "angular",
+    "2",
+    "odoo",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/jdmm/angular2-odoo-call/issues"
+  },
+  "homepage": "https://github.com/jdmm/angular2-odoo-call#readme",
+  "directories": {
+    "test": "test"
   }
 }
